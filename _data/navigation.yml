@@ -6,6 +6,10 @@
   url: "/resume/"
   side: left
 
+- title: Social
+  url: "/social/"
+  side: left
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left
