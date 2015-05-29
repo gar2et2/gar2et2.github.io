@@ -14,6 +14,10 @@ html * {
   box-sizing: border-box;
 }
 
+body {
+  background-color: lightblue;
+}
+
 .cd-container {
   font-size: 100%;
   font-family: "Droid Serif", serif;
@@ -31,13 +35,20 @@ html * {
   max-width: 100%;
 }
 
-.cd-container h1, .cd-container h2 {
+.cd-container h1, .cd-container h2, .cd-timeline-content .job-title {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   margin: 0 0 0 0;
 }
 
-.cd-container h3 {
+.cd-container h2, .cd-timeline-content .job-title {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  margin: 0 0 0 0;
+  color: #303e49;
+}
+
+.cd-container h3, .cd-timeline-content .company {
   margin: 0 0 0 0;
 }
 
@@ -276,7 +287,7 @@ Main components
   display: table;
   clear: both;
 }
-.cd-timeline-content h2 {
+.cd-timeline-content h2, .cd-timeline-content .job-title {
   padding-bottom: .25em;
   color: #303e49;
 }
@@ -317,11 +328,11 @@ Main components
   border-right: 7px solid white;
 }
 @media only screen and (min-width: 768px) {
-  .cd-timeline-content h2 {
+  .cd-timeline-content h2, .cd-timeline-content .job-title {
     font-size: 20px;
     font-size: 1.25rem;
   }
-  .cd-timeline-content h3 {
+  .cd-timeline-content h3 .cd-timeline-content .company {
     font-size: 16px;
     font-size: 1rem;
     font-style: italic;
