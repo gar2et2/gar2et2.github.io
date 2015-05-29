@@ -34,6 +34,11 @@ html * {
 .cd-container h1, .cd-container h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+  margin: 0 0 0 0;
+}
+
+.cd-container h3 {
+  margin: 0 0 0 0;
 }
 
 /* -------------------------------- 
