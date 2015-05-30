@@ -5,16 +5,15 @@ title:  "Blogging with Jekyll"
 teaser: "How to start blogging with Jekyll and Github pages in Windows 8.1"
 meta_teaser: "How to start blogging with Jekyll and Github pages in Windows 8.1"
 breadcrumb: true
+comments: true
+
 categories:
     - blogging
 tags:
-    - blog
-    - content
-    - post
-    - post format
+    - jekyll
 image:
     title: "unsplash_1.jpg"
-    caption: Unsplash.com
+    caption: 
     caption_url:
 author: Garrett Chung
 ---
@@ -31,7 +30,7 @@ show_meta: false
 ~~~
 
 
-## Other Post Formats
+## Related Posts
 {: .t60 }
-{% include list-posts.html tag='post format' %}
+{% include list-posts.html category='blogging' %}
 
