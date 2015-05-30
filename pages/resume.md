@@ -12,6 +12,8 @@ permalink: "/resume/"
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/garrettchung" data-format="inline" data-related="false"></script>
 </div>
 
+## Summary
+### View my LinkedIn profile for the full history
 <section id="cd-timeline" class="cd-container">
 <div class="cd-timeline-block">
 	<div class="cd-timeline-img cd-adobe">
@@ -86,7 +88,7 @@ permalink: "/resume/"
 	<div class="cd-timeline-content">
 		<p><span class="job-title">Responsible for in-house Java app development</span></p>
 		<p><span class="company">Civica: System Analyst/Programming</span></p>
-		<span class="cd-date">Jan 2014 - Jun 2015</span>
+		<span class="cd-date">Jan 2014 - Jun 2014</span>
 	</div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
@@ -97,7 +99,7 @@ permalink: "/resume/"
 	<div class="cd-timeline-content">
 		<p><span class="job-title">Managed builds of Windows Installers (WiX)</span></p>
 		<p><span class="company">Civica: DevOps</span></p>
-		<span class="cd-date">Jan 2014</span>
+		<span class="cd-date">Jan 2014 - Jun 2014</span>
 	</div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
@@ -109,7 +111,7 @@ permalink: "/resume/"
 		<p><span class="job-title">Bachelor of Business and Commerce</span></p>
 		<p><span class="job-title">Bachelor of Information Technology and Systems</span></p>
 		<p><span class="company">Monash University</span></p>
-		<p>Graduated with a double degree majoring in Marketing and Multimeia Applications.</p>
+		<p>Graduated with a double degree majoring in Marketing and Multimedia Applications.</p>
 		<span class="cd-date">Dec 2011</span>
 	</div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
@@ -121,7 +123,7 @@ permalink: "/resume/"
 	<div class="cd-timeline-content">
 		<p><span class="job-title">Resident Advisor Scholarship</span></p>
 		<p><span class="company">Monash Univesity</span></p>
-		<span class="cd-date">2009-2011</span>
+		<span class="cd-date">2009 - 2011</span>
 	</div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
@@ -133,7 +135,7 @@ permalink: "/resume/"
 		<p><span class="job-title">Network Advisor</span></p>
 		<p><span class="company">Monash Residential Services</span></p>
 		<p>On-campus level 1 support, retrieving lost assignments, malware removal, etc</p>
-		<span class="cd-date">2008-2010</span>
+		<span class="cd-date">2008 - 2010</span>
 	</div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
