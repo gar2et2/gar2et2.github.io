@@ -14,10 +14,6 @@ html * {
   box-sizing: border-box;
 }
 
-body {
-  background-color: lightblue;
-}
-
 .cd-container {
   font-size: 100%;
   font-family: "Droid Serif", serif;
@@ -35,21 +31,26 @@ body {
   max-width: 100%;
 }
 
-.cd-container h1, .cd-container h2, .cd-timeline-content .job-title {
+.cd-timeline-content .job-title {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   margin: 0 0 0 0;
 }
 
-.cd-container h2, .cd-timeline-content .job-title {
+.cd-timeline-content .job-title {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   margin: 0 0 0 0;
   color: #303e49;
 }
 
-.cd-container h3, .cd-timeline-content .company {
+.cd-timeline-content .company {
   margin: 0 0 0 0;
+  font-style: italic;
+}
+
+#linkedinPlugIn {
+  margin: 0 auto;
 }
 
 /* -------------------------------- 
@@ -280,14 +281,13 @@ Main components
   background: #d7e4ed;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 0 3px 0 #d7e4ed;
 }
 .cd-timeline-content:after {
   content: "";
   display: table;
   clear: both;
 }
-.cd-timeline-content h2, .cd-timeline-content .job-title {
+.cd-timeline-content .job-title {
   padding-bottom: .25em;
   color: #303e49;
 }
@@ -325,14 +325,14 @@ Main components
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid white;
+  border-right: 7px solid #d7e4ed;
 }
 @media only screen and (min-width: 768px) {
-  .cd-timeline-content h2, .cd-timeline-content .job-title {
+  .cd-timeline-content .job-title {
     font-size: 20px;
     font-size: 1.25rem;
   }
-  .cd-timeline-content h3 .cd-timeline-content .company {
+  .cd-timeline-content .company {
     font-size: 16px;
     font-size: 1rem;
     font-style: italic;
@@ -356,7 +356,7 @@ Main components
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: #d7e4ed;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -397,7 +397,7 @@ Main components
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: #d7e4ed;
   }
   #cd-timeline #right-side .cd-read-more {
     float: right;
