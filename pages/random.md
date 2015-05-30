@@ -1,14 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Digital"
+title: "Random"
 subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/digital/"
+permalink: "/random/"
 ---
 <ul>
-    {% for post in site.categories.digital %}
+    {% for post in site.categories.random %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

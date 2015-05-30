@@ -1,14 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Digital"
+title: "Blogging"
 subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/digital/"
+permalink: "/blogging/"
 ---
 <ul>
-    {% for post in site.categories.digital %}
+    {% for post in site.categories.blogging %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
