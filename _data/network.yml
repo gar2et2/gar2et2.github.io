@@ -1,12 +1,12 @@
 - menu_name: "Blog Categories"
 
-- name: "Digital Marketing"
+- name: "Digital"
   url: "/digital/"
 #  class: "network-entypo"
 #  title: "Icons by Daniel Bruce"
 
-- name: "Tech"
-  url: "/tech/"
+- name: "Technology"
+  url: "/technology/"
 #  class: "services-newsletter"
 #  title: "Built on Foundation"
 
