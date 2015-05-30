@@ -13,7 +13,9 @@ permalink: "/resume/"
 </div>
 
 ## Summary
+
 ### View my LinkedIn profile for the full history
+
 <section id="cd-timeline" class="cd-container">
 <div class="cd-timeline-block">
 	<div class="cd-timeline-img cd-adobe">
