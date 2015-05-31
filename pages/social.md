@@ -5,7 +5,7 @@ title: "Social"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "avengers.jpg"
 permalink: "/social/"
 ---
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/garrettchung" data-format="inline" data-related="false"></script>

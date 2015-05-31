@@ -4,7 +4,7 @@ show_meta: false
 title: "Random"
 subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "road.jpg"
 permalink: "/random/"
 ---
 <ul>

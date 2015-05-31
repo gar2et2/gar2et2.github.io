@@ -8,11 +8,15 @@ breadcrumb: true
 comments: true
 header:
    image_fullwidth: "header_unsplash_1.jpg"
+
 categories:
     - blogging
-    - technology
 tags:
     - jekyll
+image:
+    title: "unsplash_1.jpg"
+    caption: 
+    caption_url:
 author: Garrett Chung
 ---
 Test Post...

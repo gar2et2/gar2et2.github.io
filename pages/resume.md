@@ -5,7 +5,7 @@ title: "Professional Journey"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "bruce_lee_quote.jpg"
 permalink: "/resume/"
 ---
 <div id="linkedinPlugIn">

@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Garrett Chung"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "planet_earth.jpg"
 widget-1:
     title: "Resume"
     url: '/resume/'
@@ -22,5 +22,5 @@ widget-3:
     title: "Social"
     url: '/social/'
     text: 'Follow me on social media.'
-    image: github-303x182.jpg
+    image: socialPic.jpg
 ---
