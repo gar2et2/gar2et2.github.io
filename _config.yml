@@ -5,8 +5,8 @@
 ##
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: "http://gar2et2.github.io"
-urlimg: "http://gar2et2.github.io/images/"
+url: "http://gar2et2.net.au"
+urlimg: "http://gar2et2.net.au/images/"
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
@@ -17,7 +17,7 @@ urlimg: "http://gar2et2.github.io/images/"
 #                                                 /____/        
 #
 # Title of your website
-title: "gar2et2"
+title: "gar2et2 | Garrett Chung"
 
  
 # The slogan describes your website and is used on homepage in <title> and other important places
