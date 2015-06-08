@@ -16,13 +16,16 @@ tags:
     - blogger
 author: Garrett Chung
 ---
-# Wordpress.com $24/year
+Having an online profile is often mentioned as one of the best ways to stand out of the crowd. Free options are abundant: Wordpress, Tumbler and on the flip-side premium solution might cost more than $100/year. Here are three ways that enable you to have your own .com with a personal site/blog attached to it.
+
+## Wordpress.com $24/year
 Wordpress.com's online offering is a good way to start off. It is free to start with and you'll get a yoursite.wordpress.com address. For the extra $24/year you can purchase your own custom domain within the interface.
 The only limitations are:
 
 * limited space of 3GB
 * may show ads
 * cannot use custom themes
+
 More pricing packages [here][1].
 
 ## Blogger.com ~$12/year
