@@ -5,8 +5,8 @@
 ##
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: "http://gar2et2.net.au"
-urlimg: "http://gar2et2.net.au/images/"
+url: "http://garrettchung.com.au"
+urlimg: "http://garrettchung.com.au/images/"
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
