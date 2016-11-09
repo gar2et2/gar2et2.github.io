@@ -9,4 +9,4 @@ subheadline: ""
 teaser: ""
 permalink: "/testing/example2/"
 ---
-## Testing | Example 2
+## Example 2
