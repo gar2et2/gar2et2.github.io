@@ -4,9 +4,9 @@ title: "Testing: Example 1"
 meta_title: "Testing - Example 1"
 show_meta: false
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "amc.jpg"
 subheadline: ""
 teaser: ""
 permalink: "/testing/example1/"
 ---
-## Testing | Example 1
+## Example 1
