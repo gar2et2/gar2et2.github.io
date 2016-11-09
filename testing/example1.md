@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Testing: Example 1"
-meta_title: "Testing: Example 1"
+meta_title: "Testing - Example 1"
 show_meta: false
 header:
-   image_fullwidth: "avengers.jpg"
+   image_fullwidth: "header_homepage_13.jpg"
 subheadline: ""
 teaser: ""
 permalink: "/testing/example1/"
