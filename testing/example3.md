@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Testing: Example 3"
-meta_title: "Testing: Example 3"
+meta_title: "Testing - Example 3"
 show_meta: false
 header:
    image_fullwidth: "amc.jpg"
