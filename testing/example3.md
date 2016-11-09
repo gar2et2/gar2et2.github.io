@@ -10,7 +10,7 @@ teaser: ""
 permalink: "/testing/example3/"
 ---
 
-## Testing | Example 1
+## Testing | Example 3
 
 <script type='text/javascript'>
     (function() {
