@@ -13,9 +13,7 @@ permalink: "/testing/dtm-direct-call-rule/"
 ## Activation DTM: Direct Call Rule
 <button onclick="myClick()">Direct Call Rule in 3 seconds</button>
 
-
-<script>
-
+<script type="text/javascript">
 function myClick(){
    setTimeout(
    function() {
