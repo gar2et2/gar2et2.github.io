@@ -13,12 +13,13 @@ permalink: "/testing/dtm-direct-call-rule/"
 ## Activation DTM: Direct Call Rule
 
 <script>
-   pageLoadLogic();
 
-   function pageLoadLogic() {
+   function myClick() {
       setTimeout(
          function() {
             _satellite.track(‘dtm-direct-call-rule’);
-         }, 5000);
+            alert('Bang!');
+         }, 3000);
    }
 </script>
+<button onclick="myClick()">Direct Call Rule in 3 seconds</button>
