@@ -13,5 +13,12 @@ permalink: "/testing/dtm-direct-call-rule/"
 ## Activation DTM: Direct Call Rule
 
 <script>
-  _satellite.track(‘dtm-direct-call-rule’);
+   pageLoadLogic();
+
+   function pageLoadLogic() {
+      setTimeout(
+         function() {
+            _satellite.track(‘dtm-direct-call-rule’);
+         }, 5000);
+   }
 </script>
