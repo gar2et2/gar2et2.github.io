@@ -14,7 +14,7 @@ permalink: "/testing/dtm-direct-call-rule/"
 <button onclick="myClick()">Direct Call Rule in 3 seconds</button>
 
 <script type="text/javascript">
-function myClick(){
+function myClick() {
    setTimeout(
    function() {
       //_satellite.track(‘dtm-direct-call-rule’);
