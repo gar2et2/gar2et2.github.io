@@ -9,3 +9,4 @@ subheadline: ""
 teaser: ""
 permalink: "/testing/dco-adtag/"
 ---
+{% include adtag.html %}
