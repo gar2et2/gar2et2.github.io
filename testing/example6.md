@@ -7,7 +7,7 @@ header:
    image_fullwidth: "amc.jpg"
 subheadline: ""
 teaser: ""
-permalink: "/testing/example5/"
+permalink: "/testing/example6/"
 ---
 
 ## Example 6
