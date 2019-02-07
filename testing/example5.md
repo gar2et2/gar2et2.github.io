@@ -9,6 +9,11 @@ subheadline: ""
 teaser: ""
 permalink: "/testing/example5/"
 ---
+ <script type="text/javascript">
+        function targetPageParams() {
+          return "p=override";
+        }
+</script>
 
 ## Example 5
 
