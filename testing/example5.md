@@ -9,15 +9,9 @@ subheadline: ""
 teaser: ""
 permalink: "/testing/example5/"
 ---
- <script type="text/javascript">
-        function targetPageParams() {
-          return "p=override";
-        }
-</script>
-
 ## Example 5
 
 <div class="mboxDefault"><p style="text-align: justify;">In my search of the best Sydney food, this page is a collection of the latest of the experiences sorted by rating.</p></div>
 <script type="text/javascript">
- mboxCreate('mboxOne');
+ mboxCreate('mboxOne',"param1=override");
 </script>
